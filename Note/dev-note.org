@@ -1,0 +1,16 @@
+# -*- org-image-actual-width: nil; -*-
+* Why Need Design Edge Router
+IoT Ecosystem Diagarm
+#+Name: fig:Fig1
+#+ATTR_ORG: :width 640px
+#+ATTR_HTML: :width 640px
+[[./images/IIoT-Diagram.png]]
+
+* Hardware MPU Specific
+** MPU IMX6ULZ
+MCIMX6Z0DVM09AB
+Part number nomenclature
+#+Name: fig:Fig2
+#+ATTR_ORG: :width 640px
+#+ATTR_HTML: :width 640px
+[[./images/imx6ulz_part_number_nomenclature.png]]
